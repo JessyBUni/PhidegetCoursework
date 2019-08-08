@@ -1,0 +1,14 @@
+C:\Users\jessi\OneDrive\Desktop\Advanced Programming\Coursework\Group Coursework\Phidget\Phidget\bin\Debug\Phidget.exe.config
+C:\Users\jessi\OneDrive\Desktop\Advanced Programming\Coursework\Group Coursework\Phidget\Phidget\bin\Debug\Phidget.exe
+C:\Users\jessi\OneDrive\Desktop\Advanced Programming\Coursework\Group Coursework\Phidget\Phidget\bin\Debug\Phidget.pdb
+C:\Users\jessi\OneDrive\Desktop\Advanced Programming\Coursework\Group Coursework\Phidget\Phidget\bin\Debug\Phidget22.NET.dll
+C:\Users\jessi\OneDrive\Desktop\Advanced Programming\Coursework\Group Coursework\Phidget\Phidget\bin\Debug\Phidget22.NET.pdb
+C:\Users\jessi\OneDrive\Desktop\Advanced Programming\Coursework\Group Coursework\Phidget\Phidget\bin\Debug\Phidget22.NET.xml
+C:\Users\jessi\OneDrive\Desktop\Advanced Programming\Coursework\Group Coursework\Phidget\Phidget\obj\Debug\Phidget.csprojAssemblyReference.cache
+C:\Users\jessi\OneDrive\Desktop\Advanced Programming\Coursework\Group Coursework\Phidget\Phidget\obj\Debug\Phidget.Form1.resources
+C:\Users\jessi\OneDrive\Desktop\Advanced Programming\Coursework\Group Coursework\Phidget\Phidget\obj\Debug\Phidget.Properties.Resources.resources
+C:\Users\jessi\OneDrive\Desktop\Advanced Programming\Coursework\Group Coursework\Phidget\Phidget\obj\Debug\Phidget.csproj.GenerateResource.cache
+C:\Users\jessi\OneDrive\Desktop\Advanced Programming\Coursework\Group Coursework\Phidget\Phidget\obj\Debug\Phidget.csproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Desktop\Advanced Programming\Coursework\Group Coursework\Phidget\Phidget\obj\Debug\Phidget.csproj.CopyComplete
+C:\Users\jessi\OneDrive\Desktop\Advanced Programming\Coursework\Group Coursework\Phidget\Phidget\obj\Debug\Phidget.exe
+C:\Users\jessi\OneDrive\Desktop\Advanced Programming\Coursework\Group Coursework\Phidget\Phidget\obj\Debug\Phidget.pdb
